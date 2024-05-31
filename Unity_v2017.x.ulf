@@ -42,11 +42,11 @@
       <Feature Value="39"/>
       <Feature Value="40"/>
     </Features>
-    <DeveloperData Value="AQAAAEY0LUpHSVYtVTJZUS0yRDNRLVVRQ0ctSEpWMA=="/>
-    <SerialMasked Value="F4-JGIV-U2YQ-2D3Q-UQCG-XXXX"/>
-    <StartDate Value="2024-05-31T09:17:17"/>
-    <UpdateDate Value="2094-05-31T09:17:17"/>
-    <InitialActivationDate Value="2024-05-30T09:17:17"/>
+    <DeveloperData Value="AQAAAEY0LUVQUjEtTlBMWC1LWU1ILUFZTU4tNkszNg=="/>
+    <SerialMasked Value="F4-EPR1-NPLX-KYMH-AYMN-XXXX"/>
+    <StartDate Value="2024-05-31T09:31:53"/>
+    <UpdateDate Value="2094-05-31T09:31:53"/>
+    <InitialActivationDate Value="2024-05-30T09:31:53"/>
     <LicenseVersion Value="6.x"/>
     <ClientProvidedVersion Value="2017.2.0"/>
     <AlwaysOnline Value="false"/>
@@ -60,9 +60,9 @@
           <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
         </Transforms>
         <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
-        <DigestValue>A6j6jP52aSIuwzb3U3lVSLuTmDM=</DigestValue>
+        <DigestValue>/2ItHXVUShb8OCTlf98it6pNKlM=</DigestValue>
       </Reference>
     </SignedInfo>
-    <SignatureValue>JI65If4fSlopNPac4BAaPwr6ceZUZmmdiHd2ZDQHxcIm6x2tF6anHpxwcOFNuxYBEmErVoUv8I9BKxlUs4XjV2Y6HFjxTP8f+/mv1tDShxxTzaWssr8SC45gtAdANkOYG69xVDRf0QFcX6zZhwcbwo96AL52fJm+UOh72pdOVZE=</SignatureValue>
+    <SignatureValue>Qp41HlFqPVNKjCB4KAnvCk9kxT8Tnlz5N4G9yt5AqvViJlIPDy20e8+TUYKxLaZnL73Y819zCgHfqJlBTLWQFOp7iHatqPwyybCbc4i6ECuric+hhgE4S7YHzz4RC3oFG4j2nLCkBxYCzy68T2+XdpNLYMo7EB5x7kIpH+vcCGA=</SignatureValue>
   </Signature>
 </root>
